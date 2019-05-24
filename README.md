@@ -1,2 +1,2 @@
 # DockerJenkins
-a training repo
+a training repo in Php, Jenkins, Docker
